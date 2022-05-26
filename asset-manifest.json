@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4c8ca3e.css",
-    "main.js": "/static/js/main.2f5a91d4.js",
-    "index.html": "/index.html",
-    "main.a4c8ca3e.css.map": "/static/css/main.a4c8ca3e.css.map",
-    "main.2f5a91d4.js.map": "/static/js/main.2f5a91d4.js.map"
+    "main.css": "https://gudangada.github.io/team-planner/static/css/main.a4c8ca3e.css",
+    "main.js": "https://gudangada.github.io/team-planner/static/js/main.2f5a91d4.js",
+    "index.html": "https://gudangada.github.io/team-planner/index.html",
+    "main.a4c8ca3e.css.map": "https://gudangada.github.io/team-planner/static/css/main.a4c8ca3e.css.map",
+    "main.2f5a91d4.js.map": "https://gudangada.github.io/team-planner/static/js/main.2f5a91d4.js.map"
   },
   "entrypoints": [
     "static/css/main.a4c8ca3e.css",
